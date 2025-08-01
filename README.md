@@ -17,3 +17,19 @@ The Travel Planner AI initiates conversations and can be extended to:
 
 ## 📁 File Structure
 
+
+---
+
+## 🔤 JSON Format
+
+This project uses a message format compatible with OpenAI's chat APIs:
+
+```json
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your Travel Planner AI agent. Where would you like to go today?"
+    }
+  ]
+}
