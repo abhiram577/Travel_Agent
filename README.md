@@ -134,7 +134,7 @@ To address this, we built a **Travel Planner AI Agent** using IBM Cloud Lite and
 ---
 ## 🔗 Useful Links
 
-- [🌐 IBM Cloud Lite – Sign Up](https://cloud.ibm.com/registration)  
+- [🌐 IBM Cloud Lite – Sign Up](https://cloud.ibm.com)  
 - [🧠 IBM Watsonx.ai – Granite Foundation Models](https://www.ibm.com/products/watsonx-ai)  
 - [🎓 IBM SkillsBuild – Free Courses & Certifications](https://skillsbuild.org/)
 
