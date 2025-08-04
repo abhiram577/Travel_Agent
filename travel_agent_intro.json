@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your Travel Planner AI agent. Where would you like to go today?"
+    }
+  ]
+}
