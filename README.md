@@ -3,9 +3,7 @@
 Welcome to the **Travel Planner AI Agent**! 🌍✈️  
 This project simulates an intelligent assistant that helps users plan their trips efficiently through a structured JSON message format.
 
-# 🧳 Travel Planner Agent – IBM Hackathon Project 🤖
-
-![AI Travel Agent](https://cdn.pixabay.com/photo/2024/03/04/07/56/ai-8610262_1280.jpg)
+#  IBM Hackathon Project 🤖
 
 An **AI-powered assistant** designed to help users plan trips efficiently and intelligently. Built using **🧠 IBM Granite Foundation Model** and hosted on ☁️ **IBM Cloud Lite**, this smart agent suggests destinations, builds personalized itineraries, recommends transport and accommodation, and gives real-time travel alerts using weather and map APIs.
 
